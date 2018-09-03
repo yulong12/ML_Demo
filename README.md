@@ -5,3 +5,4 @@ learn ML
 - 2， KNN.py:计算实例之间的距离
 - 3，AllElectronics.py:决策树Demo
 - 4, KNNImplementatimy.py:KNN算法的实现
+- 5，SKLearnsimple.py:使用sk_learn包实现svm算法
