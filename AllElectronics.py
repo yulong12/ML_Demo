@@ -43,20 +43,11 @@ clf = clf.fit(dummyX, dummyY)
 print("clf: " + str(clf))
 
 
-# # Visualize model
-# with open("allElectronicInformationGainOri.dot", 'w') as f:
-#     f = tree.export_graphviz(clf, feature_names=vec.get_feature_names(), out_file=f)
+# Visualize model
+with open("allElectronicInformationGainOri.dot", 'w') as f:
+    f = tree.export_graphviz(clf, feature_names=vec.get_feature_names(), out_file=f)
 
-# oneRowX = dummyX[0, :]
-# print("oneRowX: " + str(oneRowX))
 
-# newRowX = oneRowX
-# newRowX[0] = 1
-# newRowX[2] = 0
-# print("newRowX: " + str(newRowX))
-
-# predictedY = clf.predict(newRowX)
-# print("predictedY: " + str(predictedY))
 
 
 oneRowX = dummyX[0, :]
