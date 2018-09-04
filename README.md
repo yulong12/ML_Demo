@@ -7,3 +7,6 @@ learn ML
 - 4, KNNImplementatimy.py:KNN算法的实现
 - 5，SKLearnsimple.py:使用sk_learn包实现svm算法
 - 6,SVMImplementation.py:使用svm做人脸识别
+- 7,NeuralNetwork.py神经网络预测方法
+- 8,nonlineartest.py 使用神经网络模型预测非线性
+- 9， handwrittennumber.py使用神经网络识别手写字体
