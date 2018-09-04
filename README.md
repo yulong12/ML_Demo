@@ -6,3 +6,4 @@ learn ML
 - 3，AllElectronics.py:决策树Demo
 - 4, KNNImplementatimy.py:KNN算法的实现
 - 5，SKLearnsimple.py:使用sk_learn包实现svm算法
+- 6,SVMImplementation.py:使用svm做人脸识别
