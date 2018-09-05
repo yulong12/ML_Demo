@@ -10,3 +10,4 @@ learn ML
 - 7,NeuralNetwork.py神经网络预测方法
 - 8,nonlineartest.py 使用神经网络模型预测非线性
 - 9， handwrittennumber.py使用神经网络识别手写字体
+- 10 SLP.py简单线性回归
