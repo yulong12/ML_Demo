@@ -11,3 +11,5 @@ learn ML
 - 8,nonlineartest.py 使用神经网络模型预测非线性
 - 9， handwrittennumber.py使用神经网络识别手写字体
 - 10 SLP.py简单线性回归
+- 11 MLR.py含有类别变量的多元线性回归
+- 12 LR.py不含有类别变量的多元线性回归
