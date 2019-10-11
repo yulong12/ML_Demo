@@ -1,10 +1,10 @@
-#需求
+# 需求
 统计指定词在文本中的词频
-##CS.txt
+## CS.txt
 这个文件是停用词文件
-##news.txt
+## news.txt
 文本文件
-##result.txt
+## result.txt
 统计结果
 ## SpectWords
 特定词
